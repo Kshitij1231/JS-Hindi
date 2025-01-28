@@ -25,3 +25,7 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+let a=12;
+let b=13;
+let c=a+b;
+console.log(c);
